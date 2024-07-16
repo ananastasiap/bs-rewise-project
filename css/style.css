@@ -30,3 +30,11 @@ p {
 .nav-link {
   font-weight: 500;
 }
+
+.icons {
+  height: 32px;
+  width: 32px;
+  margin-bottom: 16px;
+  background-color: #ffffff;
+  padding: 6px;
+}
